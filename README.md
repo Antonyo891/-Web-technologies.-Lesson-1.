@@ -1,1 +1,4 @@
-# -Web-technologies.-Lesson-1.
+Сайт https://pet7.ru/ работает на протоколе HTTPS (файл Протокол.png).
+Анализ страницы в файлах (ooter.png, Header.png, Content.png.
+Изменения отражены в файле было-стало.png.
+прототип низкой детализации - файл Homepage.png.
